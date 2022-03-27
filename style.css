@@ -1,0 +1,35 @@
+body {
+background-color: #ABEBC6;
+font-family: calibri;
+}
+h1 {
+color: #17202A;
+border-bottom: 3px solid #17202A;
+
+}
+h2, p, ul {
+text-align: center;
+font-size: 1.1em;
+}
+h2 {
+color: #1B4F72;
+font-size: 1.5em;
+}
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+h3 {
+  text-align: center;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: black;
+}
+
